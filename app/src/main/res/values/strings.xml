@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="refresh_button_text">Refresh</string>
+    <string name="warning_button_text">Warning</string>
+    <string name="battery_button_text">Battery</string>
+    <string name="back_Button_page2">Back</string>
+</resources>
